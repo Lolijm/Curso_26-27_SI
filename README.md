@@ -1,5 +1,5 @@
-#Repositorio Curso 26 27 de Sistemas Informáticos
+# Repositorio Curso 26 27 de Sistemas Informáticos
 
 >Autor; @Lolijm
 
-##Indice
+## Indice
